@@ -11,6 +11,7 @@ Education:
 
 
 Scholarships
+
 | Name | Institution | Date | Website |
 | --- | --- | --- | --- |
 | Romullo | UofT | Feb to Jul of 2023 | [CNPQ Scolarship](https://www.gov.br/cnpq/pt-br) |
