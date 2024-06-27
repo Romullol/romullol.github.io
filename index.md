@@ -4,6 +4,11 @@ Education:
   * Masters in Ecology - Federal University of Rio de Janeiro 
   * Bacharel in Ecology - Federal University of Rio de Janeiro
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 
 Scholarships
 | Name | Institution | Date | Website |
